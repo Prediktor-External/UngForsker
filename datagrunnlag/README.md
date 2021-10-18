@@ -8,7 +8,7 @@ Dataene er som følger hvis de plottes:
 ![plott](plott.png)
 
 ## Strømforbruk
-- 70 husstander med gjennomsnittlig strømforbruk for en norsk husstand på rundt 200kmv
+- 70 husstander med gjennomsnittlig strømforbruk for en norsk husstand på rundt 200 m2
 - 4 gårdsbruk med gjennomsnittlig 100 MWt årlig forbruk hver
 - Offentlig strømforbruk (skole, samfunnshus, gatelys, fergekai) har årlig forbruk 500 MWt
 
@@ -21,7 +21,7 @@ På øya er det installert 2 vindturbiner:
 Med følgende spesifikasjoner:
 |                           |                   |
 | --------------------------|-------------------|
-| Rated power:              | 1,500.0 kW        |
+| Rated power:              | 180.0 kW          |
 | Cut-in wind speed:        | 3.0 m/s           |
 | Rated wind speed:         | 11.8 m/s          |
 | Cut-out wind speed:       | 20.0 m/s          |
