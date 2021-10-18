@@ -12,7 +12,7 @@ Finner du i mappen [datagrunnlag](/datagrunnlag)
 Her kan dere velge tre forskjellige tilnærminger til oppgaven, eller plukke litt fra hver:
 
 ### Matematisk og litt elektrofaglig:
-Last ned datasettene for produksjon av vind- og solkraft samt værdata fra samme periode og prognose for været i neste periode. Hent ned data fra SSB om estimert forbruk og annen relevant data. Nå er det opp til dere å finne ut av hvor stort behovet for batteri er og om det produseres nok kraft.
+Last ned datasettene for vind og sol som du finner i datagrunnlaget. Du må utfylle med mer data - SSB om forbruk, omregne litt fra forskjellige måleenheter og finne ut hvilke mål man bruker i forbindelse med batterikapasitet. Nå er det opp til dere å finne ut av hvor stort behovet for batteri er og om det produseres nok kraft. Husk at du er forsker! Ikke ta alle data for gitt. Fyll ut med mer info du synes er relevant. Spør om du mangler data.
 
 ### Mer som en utvikler:
 I mappen [kode](/kode) finner du kode skrevet i Python og Jypiter Notebook. Her er det brukt metoder for svært effektivt å kunne lese og forstå store datasett. Kan du gjøre det samme for vind som det er gjort for sol i eksempelet? Med soldata er det ganske enkelt - tallene i datasettet er angitt i W/m2. Men med vind er det en del mer komplekst. I tillegg har vi i koden bare så vidt lekt litt med tallene, så her kan du gjøre mye mer. Kan du f.eks. lage en funksjon som gjør at man kan se på overskudd eller underskudd i produksjonen på et gitt tidspunkt utifra data? Kan du vise hvordan batteribehovet er utifra produksjon og forbruk?

@@ -12,7 +12,7 @@ Dataene er som følger hvis de plottes:
 - 4 gårdsbruk med gjennomsnittlig 100 MWt årlig forbruk hver
 - Offentlig strømforbruk (skole, samfunnshus, gatelys, fergekai) har årlig forbruk 500 MWt
 
-OBS! Strømforbruk vil variere i løpet av døgnet og året, men for denne oppgavens del kan du beregne at det er helt jevnt. Om det er for enkelt kan du selvfølgelig gjerne spesifisere en kurve som viser fordelingen både innenfor et døgn og måned.
+OBS! Strømforbruk vil variere i løpet av døgnet og året, men for denne oppgavens del kan du beregne at det er helt jevnt. Om det er for enkelt kan du selvfølgelig gjerne spesifisere en kurve som viser fordelingen både innenfor et døgn og måned. For eksempel kunne man si at det er veldig skjematisk gitt med en døgnvariabel prosent, ganske grovt fordelt med sum 100 % for døgnet. Altså x % om natten, x1 % fra 7 til 9, y % fra 9-16, z % fra 16 til 18, w % fra 18 til 22.
 
 ## Strømproduksjon
 ### Vindkraft
