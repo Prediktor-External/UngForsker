@@ -5,11 +5,8 @@ Hver gang du plugger noe inn i stikkontakten forventer du at det er strøm der s
 
 I denne oppgaven skal vi forestille oss at vi bor på en fiktiv øy i Lofoten, la oss kalle den "Fresk", og at det må gjøres noe med de gamle strømførende kablene som går fra fastlandet til øya. Før vi eventuelt går til det dyre skrittet å bytte disse, har vi lyst til å se på om vi trenger å være en del av fastlandsnettet i det hele tatt, eller om vi kan gå "off-grid". Vi har noen vindturbiner på øya, og også solpaneler. Kan vi installere noen batterier som fanger opp kraft vi ikke trenger akkurat når den produseres, og la oss bruke den når det ikke er sol eller blåser? Eller er det kanskje andre smarte løsninger vi burde se på?
 
-Mer info om øya:
-100 innbyggere
-50 husstander
-4 små gårdsbruk
-Etc…
+## Datagrunnlag
+Finner du i mappen [datagrunnlag](/datagrunnlag)
 
 ## Oppgaver
 Her kan dere velge tre forskjellige tilnærminger til oppgaven, eller plukke litt fra hver:
