@@ -1,4 +1,4 @@
-# Oppgave til elever i VGS
+# Det grønne skiftet til "Fresk"
 
 ## Innledning
 Hver gang du plugger noe inn i stikkontakten forventer du at det er strøm der slik at telefonen din lader eller at lyset går på. Strømmen er der fordi strømnettet er balansert mellom, på den ene siden, en kompleks kombinasjon av forskjellige strømproduserende enheter og på den andre de som trenger strømmen. Nå beveger vi oss over i en verden som bruker mer og mer fornybar kraft (fra nå av bruker vi "kraft" stedet for "strøm"), men denne er ikke så lett å balansere. Om solen skinner eller vinden blåser er avhengig av et helt annet og mer komplekst system; været.
