@@ -1,7 +1,10 @@
 # Datagrunnlag
 
 ## Værdata
-Her er vinddata [hWind.txt](hWind.txt) og innstrålingsdata [hIrr.txt](hIrr.txt) for en simulert 3 døgns periode med samplingstid på 6 minutter (1/10 time). Så det er 720 samples på hver tekst fil. Dataene er som følger hvis de plottes:
+For en simulert 3 døgns periode med samplingstid på 6 minutter (1/10 time - 720 samples i hver fil).
+- Vinddata [hWind.txt](hWind.txt)
+- Innstrålingsdata [hIrr.txt](hIrr.txt)
+Dataene er som følger hvis de plottes:
 ![plott](plott.png)
 
 ## Strømforbruk
@@ -26,3 +29,4 @@ Med følgende spesifikasjoner:
 Her også kan du anta at det er en jevnt økende kurve fra 0 ved cut-in til maks fra rated til cut-out.
 
 ### Solkraft
+Det er montert opp 1000 m2 med paneler. Du kan anta at alle yter maks i forhold til dataunderlaget.
