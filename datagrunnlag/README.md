@@ -22,6 +22,7 @@ Med følgende spesifikasjoner:
 | Cut-in wind speed:        | 3.0 m/s           |
 | Rated wind speed:         | 11.8 m/s          |
 | Cut-out wind speed:       | 20.0 m/s          |
-| Survival wind speed:      | 59.0 m/s          |
+
+Her også kan du anta at det er en jevnt økende kurve fra 0 ved cut-in til maks fra rated til cut-out.
 
 ### Solkraft
