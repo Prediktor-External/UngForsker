@@ -20,7 +20,7 @@ I mappen [kode](/kode) finner du kode skrevet i Python og Jypiter Notebook. Her 
 ### Mer praktisk:
 Om du skal forklare til alle innbyggerne på øya hvordan du heller vil løse dette enn å trekke en ny kabel til fastlandet, hadde det vært fint med en modell som viste vindturbiner, solpaneler og batterier. Kan du lage dette og visualisere hvordan flyten av kraft går?
 
-### Litt "krydder" om dere har tid:
-- Hvilke metoder for å lagre strøm har, eller hva tror dere kommer?
+### Litt "krydder" om dere har tid eller har lyst til å endre oppgaven helt:
+- Hvilke metoder for å lagre strøm har vi, og hva tror dere kommer i fremtiden?
 - Kan man tenke seg at Fresk kan selge kraft?
 - Det er en del fiskere på Fresk - kan de bruke strøm i stedet for diesel på båtene sine?
