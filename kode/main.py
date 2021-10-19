@@ -13,7 +13,7 @@ def main():
     # Lag en ny kolonne med W for alle 1000 kvadratmeterne
     soldata_innhold['totalt_w'] = soldata_innhold['w_pr_m2'] * 1000
 
-    # Lag en rad med antall timer siden 0
+    # Lag en kode med antall timer siden 0
     import math
     soldata_innhold['time'] = [int(math.floor(i / 10)) for i in range(0,719)]
 
