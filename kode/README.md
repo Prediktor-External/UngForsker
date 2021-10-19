@@ -10,5 +10,5 @@ Dette prosjektet kjører i Python, og vi synes du bør lage deg et "Virtual Envi
 5. Innstaller avhengigheter: `pip3 install -r requirements.txt`
 
 ## Kjøre koden
-Om du har 
+Om du har lyst til å skrive i Jupyter Notebook eller ikke er opptil deg. Du vil finne [main.ipynb](main.ipynb) med en enkel notebook du kan begynne i. Alternativt finner du akkurat samme koden i [main.py](main.py)
 
